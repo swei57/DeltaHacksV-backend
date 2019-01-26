@@ -1,0 +1,23 @@
+{
+  "name": "deltahacksv-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andythsu/DeltaHacksV-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andythsu/DeltaHacksV-backend/issues"
+  },
+  "homepage": "https://github.com/andythsu/DeltaHacksV-backend#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
